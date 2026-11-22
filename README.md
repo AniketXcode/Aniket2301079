@@ -20,14 +20,18 @@ I build web projects, practice DSA in Java, and I'm getting started with open so
 - Revisiting problems I solved in C++ and solving them again in **Java**
 - Learning the **Git and GitHub workflow** for open-source contributions
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-<!-- Replace the example rows with links to your best projects. -->
+### [InterviewArc](https://github.com/AniketXcode/InterviewArc) · AI-Powered Interview Prep
 
-| Project | What it does | Tech stack |
-| --- | --- | --- |
-| **Project 1** · [GitHub](https://github.com/Aniket2301079?tab=repositories) | Add one sentence about what users can do with it. | Add your stack |
-| **Project 2** · [GitHub](https://github.com/Aniket2301079?tab=repositories) | Add one sentence about the problem it solves. | Add your stack |
+A full-stack web app for practicing interviews and improving resumes.
+
+- **AI Mock Interviews** — Practice HR and technical rounds, including voice interviews, and get feedback on correctness, communication, and confidence.
+- **ATS Resume Analyzer** — Get an ATS score, check keywords, and see AI-generated suggestions.
+- **Resume Builder** — Create a resume within the app.
+- **Payments & Progress** — Integrated Razorpay and added coins, XP, badges, and a leaderboard.
+
+**Built with** `React` · `Vite` · `JavaScript` · `Node.js` · `Express` · `MongoDB` · `REST APIs` · `Razorpay`
 
 ## 💻 Tech Stack
 
@@ -42,13 +46,13 @@ I build web projects, practice DSA in Java, and I'm getting started with open so
 
 <div align="center">
 
-<img width="48%" alt="Aniket's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Aniket2301079&amp;show_icons=true&amp;hide_border=true&amp;bg_color=111827&amp;title_color=67E8F9&amp;text_color=E2E8F0&amp;icon_color=22D3EE" />
-<img width="40%" alt="Most-used languages in Aniket's repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket2301079&amp;layout=compact&amp;hide_border=true&amp;bg_color=111827&amp;title_color=67E8F9&amp;text_color=E2E8F0" />
+<img width="48%" alt="Aniket's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AniketXcode&amp;show_icons=true&amp;hide_border=true&amp;bg_color=111827&amp;title_color=67E8F9&amp;text_color=E2E8F0&amp;icon_color=22D3EE" />
+<img width="40%" alt="Most-used languages in Aniket's repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniketXcode&amp;layout=compact&amp;hide_border=true&amp;bg_color=111827&amp;title_color=67E8F9&amp;text_color=E2E8F0" />
 
 </div>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/Aniket2301079?tab=repositories">Browse my repositories ↗</a>
+  <a href="https://github.com/AniketXcode?tab=repositories">Browse my repositories ↗</a>
 </p>
